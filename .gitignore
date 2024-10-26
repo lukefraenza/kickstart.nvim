@@ -4,4 +4,6 @@ test.sh
 nvim
 
 spell/
-lazy-lock.json
+# was in nvim kickstart, but recommended to track in version control:
+# https://lazy.folke.io/usage/lockfile
+# lazy-lock.json
